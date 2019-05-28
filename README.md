@@ -1,3 +1,6 @@
+I just took a Dev.F course to get started with ReactJS. This app is just for learning purpose. It allows you to register
+your Dogs :dog: and Cats :cat: launching requests to a Heroku hosted API.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
