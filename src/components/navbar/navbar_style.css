@@ -1,0 +1,7 @@
+ul#nav-mobile > li > a {
+    font-size: 1.5em !important;
+}
+
+ul#nav-mobile > li.logo {
+    padding: 0% 1%;
+}
